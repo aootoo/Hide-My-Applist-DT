@@ -21,6 +21,9 @@ if (officialBuild) {
 android {
     namespace = "com.tsng.hidemyapplist"
 
+    defaultConfig {
+        applicationId = "com.xianni.app"
+    }
     buildFeatures {
         buildConfig = true
         viewBinding = true
