@@ -18,7 +18,7 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "XIANNI"
+rootProject.name = "Renegade Immortal"
 
 include(
     ":app",
