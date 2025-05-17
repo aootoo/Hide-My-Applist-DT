@@ -18,7 +18,7 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Renegade Immortal"
+rootProject.name = "RenegadeImmortal"
 
 include(
     ":app",
