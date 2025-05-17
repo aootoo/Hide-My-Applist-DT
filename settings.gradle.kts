@@ -18,7 +18,7 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "HideMyApplist"
+rootProject.name = "王麻子"
 
 include(
     ":app",
