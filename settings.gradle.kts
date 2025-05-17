@@ -18,7 +18,7 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "王麻子"
+rootProject.name = "XIANNI"
 
 include(
     ":app",
