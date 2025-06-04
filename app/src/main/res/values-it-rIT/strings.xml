@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Hide My Applist</string>
+    <string name="app_name">Renegade Immortal</string>
     <string name="title_home">Home</string>
     <string name="title_logs">Logs</string>
     <string name="title_settings">Impostazioni</string>
@@ -34,7 +34,7 @@
     <string name="home_xposed_service_on">Servizio di sistema in esecuzione [%d]</string>
     <string name="home_xposed_service_off">Servizio di sistema stoppato</string>
     <string name="home_xposed_service_old">Modulo aggiornato, in attesa di riavvio</string>
-    <string name="home_xposed_filter_count">Hide My Applist ha filtrato in totale %d richieste</string>
+    <string name="home_xposed_filter_count">Renegade Immortal ha filtrato in totale %d richieste</string>
     <string name="home_manage">Gestisci</string>
     <string name="home_detection_test">Test di rilevamento</string>
     <string name="home_download_test_app_title">Scarica app di test</string>

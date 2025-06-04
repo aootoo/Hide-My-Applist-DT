@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Hide My Applist</string>
+    <string name="app_name">Renegade Immortal</string>
     <string name="title_home">Головна</string>
     <string name="title_logs">Журнали</string>
     <string name="title_settings">Налаштування</string>
@@ -34,7 +34,7 @@
     <string name="home_xposed_service_on">Системна служба працює [%d]</string>
     <string name="home_xposed_service_off">Системна служба не працює</string>
     <string name="home_xposed_service_old">Модуль оновлено, потрібно перезавантажити</string>
-    <string name="home_xposed_filter_count">Hide My Applist відфільтрував %d запитів</string>
+    <string name="home_xposed_filter_count">Renegade Immortal відфільтрував %d запитів</string>
     <string name="home_manage">Керувати</string>
     <string name="home_detection_test">Перевірка на виявлення</string>
     <string name="home_download_test_app_title">Завантажити додаток для перевірки</string>

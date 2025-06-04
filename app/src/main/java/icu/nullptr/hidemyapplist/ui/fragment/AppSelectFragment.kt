@@ -11,8 +11,8 @@ import androidx.lifecycle.lifecycleScope
 import androidx.recyclerview.widget.LinearLayoutManager
 import by.kirich1409.viewbindingdelegate.viewBinding
 import com.google.android.gms.ads.AdRequest
-import com.tsng.hidemyapplist.R
-import com.tsng.hidemyapplist.databinding.FragmentAppSelectBinding
+import com.xianni.app.R
+import com.xianni.app.databinding.FragmentAppSelectBinding
 import icu.nullptr.hidemyapplist.service.PrefManager
 import icu.nullptr.hidemyapplist.ui.adapter.AppSelectAdapter
 import icu.nullptr.hidemyapplist.ui.util.navController

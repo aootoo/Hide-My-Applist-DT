@@ -1,4 +1,4 @@
-# Hide My Applist
+# Renegade Immortal
 
 [![Stars](https://img.shields.io/github/stars/Dr-TSNG/Hide-My-Applist?label=Stars)](https://github.com/Dr-TSNG)
 [![Crowdin](https://badges.crowdin.net/hide-my-applist/localized.svg)](https://crowdin.com/project/hide-my-applist)
@@ -25,7 +25,7 @@ This module can work as an Xposed module to hide apps or reject app list request
 
 Copyright © 2025 HMA developers. All rights reserved.
 
-The software Hide My Applist, starting from version v3.4, is no longer under the AGPL-3.0 License. Instead, certain rights to the software are reserved by the owner.
+The software Renegade Immortal, starting from version v3.4, is no longer under the AGPL-3.0 License. Instead, certain rights to the software are reserved by the owner.
 
 The following conditions now apply:
 

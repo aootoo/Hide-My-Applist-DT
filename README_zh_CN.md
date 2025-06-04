@@ -1,4 +1,4 @@
-# Hide My Applist
+# Renegade Immortal
 
 [![Stars](https://img.shields.io/github/stars/Dr-TSNG/Hide-My-Applist?label=Stars)](https://github.com/Dr-TSNG)
 [![Crowdin](https://badges.crowdin.net/hide-my-applist/localized.svg)](https://crowdin.com/project/hide-my-applist)
@@ -21,7 +21,7 @@
 ## 版权声明
 版权所有 © 2025 HMA 开发者。保留所有权利。
 
-从版本 v3.4 开始，Hide My Applist 不再适用 AGPL-3.0 许可证。相反，某些权利将由所有者保留。
+从版本 v3.4 开始，Renegade Immortal 不再适用 AGPL-3.0 许可证。相反，某些权利将由所有者保留。
 
 以下条件现适用：
 

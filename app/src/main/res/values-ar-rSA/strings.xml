@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Hide My Applist</string>
+    <string name="app_name">Renegade Immortal</string>
     <string name="title_home">القائمة الرئيسية</string>
     <string name="title_logs">السجلات</string>
     <string name="title_settings">الإعدادات</string>
@@ -34,7 +34,7 @@
     <string name="home_xposed_service_on">خدمـة النظـام تعمـل [%d]</string>
     <string name="home_xposed_service_off">خدمـة النظـام متوقفة</string>
     <string name="home_xposed_service_old">تـم تحديث الوحـدة، تحتاج إلي إعادة التشغيل</string>
-    <string name="home_xposed_filter_count">Hide My Applist قام بتصفية إجمالي %d من الطلبات</string>
+    <string name="home_xposed_filter_count">Renegade Immortal قام بتصفية إجمالي %d من الطلبات</string>
     <string name="home_manage">الإدارة</string>
     <string name="home_detection_test">اختبار الاكتشاف</string>
     <string name="home_download_test_app_title">تنزيل تطبيق الاختبار</string>

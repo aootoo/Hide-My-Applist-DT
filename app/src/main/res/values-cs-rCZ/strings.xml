@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Hide My Applist</string>
+    <string name="app_name">Renegade Immortal</string>
     <string name="title_home">Domů</string>
     <string name="title_logs">Logy</string>
     <string name="title_settings">Nastavení</string>
@@ -34,7 +34,7 @@
     <string name="home_xposed_service_on">Systémová služba běží [%d]</string>
     <string name="home_xposed_service_off">Systémová služba neběží</string>
     <string name="home_xposed_service_old">Modul aktualizován, je třeba restartovat</string>
-    <string name="home_xposed_filter_count">Hide My Applist odfiltroval celkem %d požadavků</string>
+    <string name="home_xposed_filter_count">Renegade Immortal odfiltroval celkem %d požadavků</string>
     <string name="home_manage">Spravovat</string>
     <string name="home_detection_test">Detekční test</string>
     <string name="home_download_test_app_title">Stáhněte si testovací aplikaci</string>

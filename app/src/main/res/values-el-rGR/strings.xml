@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Hide My Applist</string>
+    <string name="app_name">Renegade Immortal</string>
     <string name="title_home">Αρχική</string>
     <string name="title_logs">Logs</string>
     <string name="title_settings">Ρυθμίσεις</string>
@@ -34,7 +34,7 @@
     <string name="home_xposed_service_on">Η υπηρεσία συστήματος εκτελείται [%d]</string>
     <string name="home_xposed_service_off">Η υπηρεσία συστήματος δεν εκτελείται</string>
     <string name="home_xposed_service_old">Module updated, need reboot</string>
-    <string name="home_xposed_filter_count">Το Hide My Applist έχει φιλτράρει συνολικά %d αιτήματα </string>
+    <string name="home_xposed_filter_count">Το Renegade Immortal έχει φιλτράρει συνολικά %d αιτήματα </string>
     <string name="home_manage">Διαχείριση</string>
     <string name="home_detection_test">Τέστ εντοπισμού</string>
     <string name="home_download_test_app_title">Λήψη της τεστ εφαρμογής</string>
